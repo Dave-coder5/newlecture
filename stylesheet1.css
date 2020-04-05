@@ -1,0 +1,30 @@
+.header {
+    background-color: #f7f2b4;
+    height: 90px;
+    }
+.main {
+    background-color: #bdf7f1;
+    height: 600px;
+}
+.footer {
+    background-color: #ceccf3;
+    height: 270px;
+}
+
+table {
+            border: 2px solid black;
+            border-collapse: collapse;
+            table-layout: auto;
+        }
+    th , td {
+            border: 1px solid black;
+            padding: 5px;
+            width: 20%;
+            text-align: center;
+    }
+    th {
+        background-color: chocolate;
+    }
+    td {
+        background-color: cyan;
+    }
